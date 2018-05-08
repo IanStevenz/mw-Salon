@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Barberros</string>
+    <string name="title_activity_splash__screen">Splash_Screen</string>
+    <string name="register">Register</string>
+    <string name="or">OR</string>
+    <string name="forgot_your_password">Forgot your password ?</string>
+    <string name="login">LOGIN</string>
+    <string name="password">Password</string>
+    <string name="barberros">BARBERROS</string>
+    <string name="get">Get your fast mobile booking, descounts, and rewards!</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="agreement">I agree to the terms and agreement</string>
+    <string name="retype_pass">Retype Password</string>
+    <string name="phone_number">+62 Phone Number</string>
+    <string name="email">Email</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="password2">Secondary Password</string>
+    <string name="retype_password2">Retype Secondary Password</string>
+    <string name="prim_secon">Nb : Only use Primary password when Login, Secondary Password is used when you forgot the primary password</string>
+    <string name="your_email_address">Your email address</string>
+</resources>
